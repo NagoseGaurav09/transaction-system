@@ -72,7 +72,7 @@ const Modes = () => {
                   <img className='modeImg' src={mode4} class="card-img-top" alt="..." />
                   <div className="card-body d-flex justify-content-center flex-column">
                     <h5 className="card-title">Transaction Mode-4</h5>
-                    <p className="card-text">Scan QR Code And  Send Money to Your Friends & Family</p>
+                    <p className="card-text">Scan QR Code And  withdraw Your Money Within a Seconds</p>
                     <button onClick={() => navigate('/mode4')} to="" className="btn btn-primary ">Click for Mode-4</button>
                   </div>
                 </div>

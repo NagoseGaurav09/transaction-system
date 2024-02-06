@@ -25,7 +25,7 @@ const Data = [
     {
         imgsrc: mode4,
         title: "Transaction Mode-4",
-        discription: "Scan QR Code And  Send Money to Your Friends & Family ",
+        discription: "Scan QR Code And  withdraw Your Money  ",
         thumb: "Mode3",
     },
 ]
