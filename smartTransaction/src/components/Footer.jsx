@@ -63,7 +63,7 @@ const Footer = () => {
                                         <h2 >
                                             Sakshi Chavhan
                                         </h2>
-                                        <h4 className='cardPost'>Group Leader</h4>
+                                        <h4 className='cardPost'>Project Member</h4>
                                         <p className='pt-3 cardPostPara'>
                                             Sakshi Chavhan has immense <br />experience  in research and <br />development
                                         </p>

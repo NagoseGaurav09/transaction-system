@@ -7,7 +7,7 @@ const Mode4 = () => {
    <>
    <Navbar />
       <div className='my-5'>
-        <h3 className='text-center'>Please Enter Following Details</h3>
+        <h3 className='text-center'>Please Enter Following Details At Mode-4</h3>
 
       </div>
       <div className='container contact_div'>
@@ -16,8 +16,8 @@ const Mode4 = () => {
             <div >
               <form className='border border-2 p-5 border-black rounded-4 '>
                 <div className="mb-3">
-                  <label for="exampleFormControlInput1" className="form-label">Mobile Number</label>
-                  <input type="Number" className="form-control" id="exampleFormControlInput1" placeholder="Please Enter Your Mobile No." />
+                  <label for="exampleFormControlInput1" className="form-label">Email-Id</label>
+                  <input type="Number" className="form-control" id="exampleFormControlInput1" placeholder="Please Enter Your Email-ID." />
                 </div>
                 <div className=' mt-5 text-center'>
                   <NavLink to="" className='btn-get-started  px-5 py-3'>Verify Your Mobile Number</NavLink>

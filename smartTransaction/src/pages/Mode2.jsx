@@ -8,7 +8,7 @@ const Mode2 = () => {
     <>
       <Navbar />
       <div className='my-5'>
-        <h3 className='text-center'>Please Enter Following Details</h3>
+        <h3 className='text-center'>Please Enter Following Details At Mode-2</h3>
 
       </div>
       <div className='container contact_div'>
